@@ -1,1 +1,2 @@
-Hi there, I'm Nandhini, Front-end developer & designer
+Hi there, 
+I'm Nandhini a Data geek
